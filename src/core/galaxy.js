@@ -102,7 +102,7 @@ export class Galaxy {
       TimeStudy(223),
       TimeStudy(224),
       EternityChallenge(5).reward,
-      GlyphSacrifice.power
+      GlyphSacrifice.power * 1000000000
     );
   }
 
